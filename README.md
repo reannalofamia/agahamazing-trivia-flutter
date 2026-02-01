@@ -1,16 +1,23 @@
-# trivia_fixed
+# AGHA MAZING TRIVIA 🧪✨
 
-A new Flutter project.
+A Flutter trivia game where players identify famous scientists. Pixel-perfect migration from Unity to Flutter.
+
+https://github.com/user-attachments/assets/8f6452a1-9a3e-4f5c-9c8d-3b5e8f7a9b0c
+
+## Features
+✅ Responsive UI that scales perfectly on all devices  
+✅ Confetti animation on correct answers  
+✅ Smooth navigation: Q1 → Q2 → Q3 → Win screen  
+✅ Exact recreation of Unity design (scientist portraits, gold text, wood panels)  
+
+## Correct Answers Flow
+1. **Screen 1**: Isaac Newton shown → Correct answer: `CHARLES BABBAGE`
+2. **Screen 2**: Isaac Newton shown → Correct answer: `ISAAC NEWTON`
+3. **Screen 3**: Niels Bohr shown → Correct answer: `NIELS BOHR` → Win screen
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/reannalofamia/agahamazing-trivia-flutter.git
+cd agahamazing-trivia-flutter
+flutter pub get
+flutter run
