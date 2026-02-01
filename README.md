@@ -2,8 +2,6 @@
 
 A Flutter trivia game where players identify famous scientists. Pixel-perfect migration from Unity to Flutter.
 
-https://github.com/user-attachments/assets/8f6452a1-9a3e-4f5c-9c8d-3b5e8f7a9b0c
-
 ## Features
 ✅ Responsive UI that scales perfectly on all devices  
 ✅ Confetti animation on correct answers  
