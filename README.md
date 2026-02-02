@@ -1,9 +1,8 @@
-# AGHA MAZING TRIVIA 🧪✨
+# AGHAMAZING TRIVIA 🧪✨
 
 A Flutter trivia game where players identify famous scientists. Pixel-perfect migration from Unity to Flutter.
 
 ## Features
-✅ Responsive UI that scales perfectly on all devices  
 ✅ Confetti animation on correct answers  
 ✅ Smooth navigation: Q1 → Q2 → Q3 → Win screen  
 ✅ Exact recreation of Unity design (scientist portraits, gold text, wood panels)  
